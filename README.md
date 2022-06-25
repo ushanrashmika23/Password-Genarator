@@ -22,6 +22,6 @@ Generating...\n
 Password copied to clipboard.\n
 Password is : r!Le4DWDqf `
 
-### Happy coding. 😎😎😎
+### Happy coding... 😎😎😎
 Ushan Rashmika
 https://github.com/ushanrashmika23
