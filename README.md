@@ -17,9 +17,9 @@ example <br>
 
 OUTPUT
 
-`Password Generator Started.\n
-Generating...\n
-Password copied to clipboard.\n
+`Password Generator Started.<br>
+Generating...<br>
+Password copied to clipboard.<br>
 Password is : r!Le4DWDqf `
 
 ### Happy coding... 😎😎😎
